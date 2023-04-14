@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: V1
+    m_Hash: -51976169
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Default
+      m_Hash: 753088835
+      m_Sprite: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24,
+        type: 3}
+    - m_Name: Happy
+      m_Hash: 2133634253
+      m_Sprite: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24,
+        type: 3}
+    - m_Name: Confused
+      m_Hash: -1019119960
+      m_Sprite: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24,
+        type: 3}
+    - m_Name: Angry
+      m_Hash: 16779677
+      m_Sprite: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24,
+        type: 3}
+    - m_Name: Annoyed
+      m_Hash: 31230108
+      m_Sprite: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24,
+        type: 3}
+    - m_Name: Ecstatic
+      m_Hash: -1895576546
+      m_Sprite: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24,
+        type: 3}
+    - m_Name: Sad
+      m_Hash: -1484605860
+      m_Sprite: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24,
+        type: 3}
+    - m_Name: Despairing
+      m_Hash: 1435152054
+      m_Sprite: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24,
+        type: 3}
+    - m_Name: Surprised
+      m_Hash: -127017562
+      m_Sprite: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d81043ae5d6ed9a49a3c1e0431351e24,
+        type: 3}
+    - m_Name: Empty
+      m_Hash: -1459219776
+      m_Sprite: {fileID: 0}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 0}
+    m_FromMain: 0
+    m_EntryOverrideCount: 10
+  - m_Name: V2
+    m_Hash: 1710209453
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Default
+      m_Hash: 753088835
+      m_Sprite: {fileID: 21300000, guid: 0357788ef05ce644c92d33b4c73824cd, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 0357788ef05ce644c92d33b4c73824cd,
+        type: 3}
+    - m_Name: Happy
+      m_Hash: 2133634253
+      m_Sprite: {fileID: 21300000, guid: 0d9d96002c6e34448a693e770c029e9e, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 0d9d96002c6e34448a693e770c029e9e,
+        type: 3}
+    - m_Name: Confused
+      m_Hash: -1019119960
+      m_Sprite: {fileID: 21300000, guid: a3e0e248e8c082d4a99ed07ffe97eb4c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: a3e0e248e8c082d4a99ed07ffe97eb4c,
+        type: 3}
+    - m_Name: Angry
+      m_Hash: 16779677
+      m_Sprite: {fileID: 21300000, guid: 4e8eb8fa982597040867ef7049f4c681, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 4e8eb8fa982597040867ef7049f4c681,
+        type: 3}
+    - m_Name: Annoyed
+      m_Hash: 31230108
+      m_Sprite: {fileID: 21300000, guid: 9b58a564a2f05354bab42e91e47aa7bc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 9b58a564a2f05354bab42e91e47aa7bc,
+        type: 3}
+    - m_Name: Ecstatic
+      m_Hash: -1895576546
+      m_Sprite: {fileID: 21300000, guid: a4fac692d8056d94e8448844b857d700, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: a4fac692d8056d94e8448844b857d700,
+        type: 3}
+    - m_Name: Sad
+      m_Hash: -1484605860
+      m_Sprite: {fileID: 21300000, guid: bc17cc75b8d8b6f4eb8a15b62c873c1e, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: bc17cc75b8d8b6f4eb8a15b62c873c1e,
+        type: 3}
+    - m_Name: Despairing
+      m_Hash: 1435152054
+      m_Sprite: {fileID: 21300000, guid: 303662522e17e784f8df3f86cb7bdfe9, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 303662522e17e784f8df3f86cb7bdfe9,
+        type: 3}
+    - m_Name: Surprised
+      m_Hash: -127017562
+      m_Sprite: {fileID: 21300000, guid: ed8bcc2917b7d6a469475734c45cb267, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: ed8bcc2917b7d6a469475734c45cb267,
+        type: 3}
+    - m_Name: GlitchedSurprised
+      m_Hash: -1755634815
+      m_Sprite: {fileID: 21300000, guid: e03bc52e05ba5df4e8acd4509a74985c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: e03bc52e05ba5df4e8acd4509a74985c,
+        type: 3}
+    - m_Name: GlitchedDefault
+      m_Hash: 1995914131
+      m_Sprite: {fileID: 21300000, guid: 0589ca1323baba142a8d7e8dbc4e0889, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 0589ca1323baba142a8d7e8dbc4e0889,
+        type: 3}
+    - m_Name: GlitchedConfused
+      m_Hash: 1170780286
+      m_Sprite: {fileID: 21300000, guid: af6da278fe6747e4ebc3ed0e3f8f523a, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: af6da278fe6747e4ebc3ed0e3f8f523a,
+        type: 3}
+    - m_Name: SuperGlitchedSurprised
+      m_Hash: 1607133583
+      m_Sprite: {fileID: 21300000, guid: 0abc2fc92f821604cb335036f8b37387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 0abc2fc92f821604cb335036f8b37387,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 13
+  m_PrimaryLibraryGUID: 

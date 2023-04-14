@@ -1,0 +1,401 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 7b96552fd1198fa4eaae54a2f975645e
+  - enabled: 0
+    path: 
+    guid: b9cf7e391a5874f80a0485164885fe54
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreen.unity
+    guid: d89b77a7a68c1844280c6ff2e49f95b8
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/LevelSelection/LevelSelection.unity
+    guid: 38b3bbb0fec788241870d54b46b03e47
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/LevelSelection/LevelSelectionMap.unity
+    guid: 0bba9bfc439ed1f458ec61e4c0008ebd
+  - enabled: 0
+    path: 
+    guid: 193c7309ff376d1489dcd808b644fdef
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Corgi2D/Mesa1.unity
+    guid: 3255dcacf4a25fc4c8070322156f10cd
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Corgi2D/Mesa2.unity
+    guid: 808661879b505b84ca4f4d679b486cd5
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Corgi2D/Mountains.unity
+    guid: 95d196af875ba35478432a81627a3084
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Corgi2D/Lava.unity
+    guid: 021858c77d85c1e4a944245dd9e0cf08
+  - enabled: 0
+    path: 
+    guid: 2380b3a9640179c4791abe8cdec4ea5c
+  - enabled: 0
+    path: 
+    guid: a4b03f0bea3ef6444819e45677eee09f
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Corgi2D/Sandbox.unity
+    guid: 834d2ad12a39c48bba0d203a2d9de965
+  - enabled: 0
+    path: 
+    guid: 67d7231ca91f47a43932691bedc7be2a
+  - enabled: 0
+    path: 
+    guid: 21235c11eb96a4cce9524e313642ab64
+  - enabled: 0
+    path: 
+    guid: b5dafbb7f5956d94ba41cd169cc39435
+  - enabled: 0
+    path: 
+    guid: 5714929c69111d6479988071c2f49c7c
+  - enabled: 0
+    path: 
+    guid: 18021034d32868049ab88f55d2a3ebdf
+  - enabled: 0
+    path: 
+    guid: 6bc87e572545fc543b9e3a9a445f0e44
+  - enabled: 0
+    path: 
+    guid: 7c52201ab32b101488d1487d7683ccdb
+  - enabled: 0
+    path: 
+    guid: 01cc8dfd93b2bf64c8ffaea6085007d9
+  - enabled: 0
+    path: 
+    guid: ebcd6de0032f6a946a11ce7c5c7e5b02
+  - enabled: 0
+    path: 
+    guid: 4c2aaf8a2f44b4dd8bcabba19d475c87
+  - enabled: 0
+    path: 
+    guid: 654cb02afee826c4e8c21a77155e84e3
+  - enabled: 0
+    path: 
+    guid: 5e74e8fd6deb84749a4fc4e4b8d7ea09
+  - enabled: 0
+    path: 
+    guid: c8d1ba4ad1f68a5449b10a0921eabb7a
+  - enabled: 0
+    path: 
+    guid: cec1726c18982b84b8cf78b0b33025c7
+  - enabled: 0
+    path: 
+    guid: 5a37564541f3b554d83f69844d59b915
+  - enabled: 0
+    path: 
+    guid: 0ed1a168af3dfbd4d84d743d54fb49e8
+  - enabled: 0
+    path: 
+    guid: 473ff282eb94d494290a75136e630771
+  - enabled: 0
+    path: 
+    guid: e9f05a74451393a45820631bf8eb2ed1
+  - enabled: 0
+    path: 
+    guid: 222134e89397758428b4027f33abba30
+  - enabled: 0
+    path: 
+    guid: 5981ecd2cdc50c142817e7aa485be511
+  - enabled: 0
+    path: 
+    guid: 1e8feb8b31979f24693c2f9874367517
+  - enabled: 0
+    path: 
+    guid: 24e8717724dfca541a7746982e12ab23
+  - enabled: 0
+    path: 
+    guid: 8c65f7d9dde72e74d93288177dad2006
+  - enabled: 0
+    path: 
+    guid: c982ea55a70c24044a9b4226f6446108
+  - enabled: 0
+    path: 
+    guid: 71edfb2fd45021646941033d28e781fb
+  - enabled: 0
+    path: 
+    guid: e88faf07b1c65904c9a50ac65f300878
+  - enabled: 0
+    path: 
+    guid: d7b557f6a71b64946a3fe442e825d5fb
+  - enabled: 0
+    path: 
+    guid: 9494d759434f80b4381b1da2a0fa14a0
+  - enabled: 0
+    path: 
+    guid: 00bc6681f52186e429e065009169f47d
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/InventoryEngine/Demos/PixelRogue/Minimal1.unity
+    guid: b7b14cfcf997f4d40a54d4eee5f33401
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/InventoryEngine/Demos/PixelRogue/Minimal2.unity
+    guid: 77c11560aca2ca24595389a0ea78a11a
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/InventoryEngine/Demos/PixelRogue/PixelRogueRoom1.unity
+    guid: bbd1671f1789c734ebafbab88956dd66
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/InventoryEngine/Demos/PixelRogue/PixelRogueRoom2.unity
+    guid: c3ccf26bc08e243b1aae7d13d40d2ec4
+  - enabled: 0
+    path: 
+    guid: a54626feab65cca4dbcea4dd435ad9be
+  - enabled: 0
+    path: 
+    guid: 7f88f9618b30a48dd84ec6896516d345
+  - enabled: 0
+    path: 
+    guid: 651fe2312d8cc4f5587ce3e96e9609b0
+  - enabled: 0
+    path: 
+    guid: e2fd718f497d2408ea6a1661ea861316
+  - enabled: 0
+    path: 
+    guid: c04efd6e72733294a8e7c8111aa5f4c4
+  - enabled: 0
+    path: 
+    guid: 6941630460bbb2649a30eea54b4ef6ea
+  - enabled: 0
+    path: 
+    guid: 9fe3f55d8fbc69e498173731635e42f5
+  - enabled: 0
+    path: 
+    guid: 283c53fb6e78f594580ce1b6cc9db42e
+  - enabled: 0
+    path: 
+    guid: 520006148e7fc614ea1e13df3773d7cc
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMInterface/Styles/Mini/1-StyleguideIntro.unity
+    guid: b67d0d2664281d04899a99f80395448a
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMInterface/Styles/Mini/2-StyleguideButtons.unity
+    guid: de77af6972b276946bc69e387fc8d713
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMInterface/Styles/Mini/3-StyleguideButtonsAnimations.unity
+    guid: ea89bc72dea980d4abccc06d3614ecc2
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMInterface/Styles/Mini/4-StyleguideForms.unity
+    guid: 8f8c2f0b710e68d438bf4858e885b305
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMInterface/Styles/Mini/5-StyleguideDark.unity
+    guid: 53a6867d9e449ca4394561ea3eaaa7eb
+  - enabled: 0
+    path: 
+    guid: 2004874d46ed82941a677f3ee2b78d64
+  - enabled: 0
+    path: 
+    guid: b9ffc1b3add71414181574775f050d6a
+  - enabled: 0
+    path: 
+    guid: 46fcc2c18a399f747b0673aacb693b94
+  - enabled: 0
+    path: 
+    guid: a263b887440dd564983da172c7fe783d
+  - enabled: 0
+    path: 
+    guid: 702b1d26cdfc0ae4e9b4fd1d881b1e8f
+  - enabled: 0
+    path: 
+    guid: a70302a2680553d40a0f9d57ee57ca5b
+  - enabled: 0
+    path: 
+    guid: 5716dd8c709a03142b13533ed057a262
+  - enabled: 0
+    path: 
+    guid: aba2daab4ea9f82428c58d957862f82d
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenBigText.unity
+    guid: dedb2bed56a01c241be42c5c5b5748ca
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenFastFade.unity
+    guid: 8101c376367d6e44f84e602722e5ac10
+  - enabled: 0
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenSimple.unity
+    guid: 945e5b97212e8e74ebcd35bddde3970c
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 424277a5363305c4085121a4620677ff
+  - enabled: 1
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/LoadingScreen.unity
+    guid: 888394d52616e5e42b3b54c3f2bbd3eb
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/1. RunTutorial.unity
+    guid: 7c0dafb2e3516cc4f96c336e65b6f71f
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/2. DeathTutorial.unity
+    guid: f2c41c1ea71100e488f4151630c95d2e
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/3. JumpTutorial.unity
+    guid: ffbad68f07e969e44a69fb7413b91812
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/8. WallJumpTutorial.unity
+    guid: 89a194f743a413244a85395c7e8015e8
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/5. AnimationTutorial.unity
+    guid: d2ec79091a1ab874aa96400cfce2d9b7
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/6. DoubleJumpTutorial.unity
+    guid: 11db77fa427a0684ebea6c47a8134b4a
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/7. SlideTutorial.unity
+    guid: cafe00e45eb219f42ba6371e9749dca8
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/9. EnemyTutorial.unity
+    guid: 91afd6115502c754d8c1d43068022a9c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/4. DashTutorial.unity
+    guid: 391367af50a0d7d4a82388c2fac40557
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/Cutscenes/3. IntroJumpTutorial.unity
+    guid: 468f873f10e40b54aa46e2718358e822
+  - enabled: 1
+    path: Assets/Ink/Demos/Basic Demo/Basic Demo.unity
+    guid: 8af1c5cbac5094782904447c9410b35d
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/Cutscenes/8. IntroWallJumpTutorial.unity
+    guid: 599c0dd7db2997c459b40361e742669f
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/Cutscenes/7. IntroSlideTutorial.unity
+    guid: 92c44fba5dd900541bc9ef488baba005
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/Cutscenes/9. IntroEnemyTutorial.unity
+    guid: 78b73362943194940ab106d49c403e8a
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/Cutscenes/6. IntroDoubleJumpTutorial.unity
+    guid: 0f88c092387161940945431564b28dff
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/Cutscenes/4. IntroDashTutorial.unity
+    guid: 4f2a08226ddb301419ead791e74f1703
+  - enabled: 1
+    path: Assets/Scenes/1. TutorialWorld/Cutscenes/5. IntroAnimationTutorial.unity
+    guid: e51af858276cf6f41821823b4ac152af
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/2. Spikes.unity
+    guid: a73d029c17027a6439ba89c41050e4fb
+  - enabled: 1
+    path: Assets/Scenes/TestingGrounds.unity
+    guid: 77e087d91b7e8414da7471f3a707aa82
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/1. TimeToPlay.unity
+    guid: 88560f7684519c6499311d016604cef6
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/4. IntroMovingPlatforms.unity
+    guid: 6e6bceb0edfc4854dbdeae5f5e6739d4
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/5. IntroMovingPlatforms2.unity
+    guid: 7f9248f0fa126c34785facb90be70091
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/6. IntroMovingWalls.unity
+    guid: eadb150951d0f8a43b6fb77b0410c338
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/7. IntroCrushers.unity
+    guid: 1ce7e59cc0851a248a1269e7b5305452
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/8. IntroAirSlide.unity
+    guid: b025d4d08045a3e4a8165165149d8613
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/9. IntroAirSlide2.unity
+    guid: d013dcc252706984b8d6eef5afcdc2b1
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/10. IntroGun.unity
+    guid: 206ff87295575a045a08d4bbb740310b
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/11. IntroEnemyGuns.unity
+    guid: 2106b88a8d113f84fbc9f8a2332d14ee
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/12. IntroQTE.unity
+    guid: c5c95f784fd57d44f98ec88f04269152
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/13. IntroSpeed.unity
+    guid: ad1217e0252cb8e47bcd805ae0c3ddca
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/14. IntroSpeed2.unity
+    guid: a2f1351bd3e7e36428eba38d8ac5e49e
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/15. IntroSpeed3.unity
+    guid: e524bd9394b7fa3418f1cb6416503df1
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/16. IntroLavaClimb.unity
+    guid: cccec3f62561a3849a382735572f6b73
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/17. IntroTripleJump.unity
+    guid: d0ac326a6123e23459e25bc056f26447
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/18. IntroGlitched.unity
+    guid: 14816f6620dfd954587b99148e709498
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/3. Spikes2.unity
+    guid: 67e20dae9b05db74688f7e2275bf58ad
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/4. MovingPlatforms.unity
+    guid: 0ec836d185715fc409bb03d4d36c60f8
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/6. MovingWalls.unity
+    guid: 1ef602c7ef9c377418349d156643429b
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/7. Crushers.unity
+    guid: 74fe2dd66c3b51940a00d9dbbb3de14e
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/8. AirSlide.unity
+    guid: 0d9b3fe810f2f0247a5c770380dce070
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/9. AirSlide2.unity
+    guid: b709b4fd235152f44901fa4dcce2c65c
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/10. Gun.unity
+    guid: 680fb387937a2e64bbcdabbf71e38b9b
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/11. EnemyGuns.unity
+    guid: 3d415422a60740e4da53d926c84ce65d
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/12. QTE.unity
+    guid: 8671c920ee963014fb8113bf2fe17024
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/13. Speed.unity
+    guid: c01395d03a0d4944cafbb6b61eff2051
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/14. Speed2.unity
+    guid: 248405c903f1a3f4480cb1a11b4ecf95
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/15. Speed3.unity
+    guid: e6b22d40686ef4246a36c1f7dc1bdf57
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/16. LavaClimb.unity
+    guid: bf18564c3dd617041a32a463941b68c6
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/17. TripleJump.unity
+    guid: d096e474afdac714cbafc10d2e3e9dfc
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/5. MovingPlatforms2.unity
+    guid: 66def114296f2b14b8cd04166f524993
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/1. IntroTimeToPlay.unity
+    guid: a4c7b7425f5defd4586970ff1233688b
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/2. IntroSpikes.unity
+    guid: 74ee4fc48366e7b4182c0df248e6a2a5
+  - enabled: 1
+    path: Assets/Scenes/2. IntroWorld/Cutscenes/3. IntroSpikes2.unity
+    guid: c5aab5fabc31f944ea630318aed9fceb
+  - enabled: 1
+    path: Assets/Scenes/LevelSelectionPage1.unity
+    guid: dc1ab5a40274af340b8ce2cb074645e5
+  - enabled: 1
+    path: Assets/Scenes/LevelSelectionPage2.unity
+    guid: 27af8f94422b41c43a7a804599fc0484
+  m_configObjects: {}
